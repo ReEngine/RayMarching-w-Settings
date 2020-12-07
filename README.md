@@ -1,2 +1,2 @@
-# RayMarching-w-Settings
+# RayMarching w/ settings
 RayMarching project with procedural settings
