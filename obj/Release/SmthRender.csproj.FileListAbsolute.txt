@@ -1,0 +1,9 @@
+C:\Users\Игорь\source\repos\SmthRender\bin\Release\SmthRender.exe.config
+C:\Users\Игорь\source\repos\SmthRender\bin\Release\SmthRender.exe
+C:\Users\Игорь\source\repos\SmthRender\bin\Release\SmthRender.pdb
+C:\Users\Игорь\source\repos\SmthRender\obj\Release\SmthRender.Form1.resources
+C:\Users\Игорь\source\repos\SmthRender\obj\Release\SmthRender.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SmthRender\obj\Release\SmthRender.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SmthRender\obj\Release\SmthRender.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SmthRender\obj\Release\SmthRender.exe
+C:\Users\Игорь\source\repos\SmthRender\obj\Release\SmthRender.pdb
